@@ -1,4 +1,16 @@
-# Quotes
+# Author
+
+# Omar Abdirahman Hussein
+
+## Description
+
+This is an Angular application that allows user to see quotes, Up vote quotes , Down vote quotes, add their own quotes and be able to delete Quotes.
+
+## Live Page
+
+omarion3698.github.io/quotes/.
+
+## Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
@@ -25,3 +37,36 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Set-up Instructions
+
+Open Terminal using {Ctrl+Alt+T}
+
+Make directory to work on using {mkdir Quotes}
+
+git clone my repository https://github.com/omarion3698/Quotes.git
+
+cd Quotes-app
+
+code . or atom . based on the text editor you have
+
+## Technologies Used
+
+Html5
+
+Css3
+
+AngularCLI
+
+Bootstrap
+
+markdown
+
+## Contact Information
+
+If you have any question or contributions, please email me at {omaribinbakarivic@gmail.com}
+
+## License
+
+MIT License:
+Copyright (c) 2020 Omar Abdirahman.
