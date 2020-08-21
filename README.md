@@ -8,8 +8,8 @@ This is an Angular application that allows user to see quotes, Up vote quotes , 
 
 ## Live Page
 
-omarion3698.github.io/quotes/.
-
+ https://omarion3698.github.io/Quotes/
+ 
 ## Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
