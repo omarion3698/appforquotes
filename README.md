@@ -1,6 +1,6 @@
 # Author
 
-# Omar Abdirahman Hussein
+Omar Abdirahman Hussein
 
 ## Description
 
